@@ -14,14 +14,14 @@
 
 ```yaml
 user:      soumadip420
-role:      Computer Engineer          # edit
+role:      Computer Engineering Student   # edit
 location:  West Bengal, India
-stack:     C · Python · JS · Linux
-focus:     Systems · Embedded · Web   # edit
+stack:     Python · JavaScript · HTML · CSS   # edit to what you know
+focus:     Learning and building projects
 status:    compiling ideas into reality
 ```
 
-<img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,bash,linux,git,docker,arduino,vscode&theme=dark&perline=12" height="28" />
+<img src="https://skillicons.dev/icons?i=py,js,html,css,git,github,vscode&theme=dark&perline=12" height="28" />
 
 ---
 
@@ -30,9 +30,9 @@ status:    compiling ideas into reality
 ```text
 ~/workspace
 ├── projects/
-│   ├── project-one/      C · Python       ████████░░  80%   ● active
+│   ├── project-one/      Python           ████████░░  80%   ● active
 │   ├── project-two/      JavaScript       ██████░░░░  60%   ● active
-│   └── project-three/    Arduino · IoT    ████░░░░░░  40%   ○ wip
+│   └── project-three/    HTML · CSS       ████░░░░░░  40%   ○ wip
 ├── notes/
 └── README.md
 ```
