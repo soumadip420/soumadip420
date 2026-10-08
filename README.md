@@ -14,9 +14,9 @@
 
 ```yaml
 user:      soumadip420
-role:      Computer Engineering Student   # edit
+role:      Computer Engineering Student   
 location:  West Bengal, India
-stack:     Python · JavaScript · HTML · CSS   # edit to what you know
+stack:     Python · JavaScript · HTML · CSS   
 focus:     Learning and building projects
 status:    compiling ideas into reality
 ```
