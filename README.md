@@ -10,7 +10,7 @@
 [soumadip420]  0:about*  1:projects  2:stats  3:contact                  ● online
 ```
 
-### `0:about`
+### `about`
 
 ```yaml
 user:      soumadip420
@@ -25,7 +25,7 @@ status:    compiling ideas into reality
 
 ---
 
-### `1:projects`
+### `projects`
 
 ```text
 ~/workspace
@@ -62,7 +62,7 @@ comment markers around this block to show live pinned-repo cards.
 
 ---
 
-### `2:stats`
+### `stats`
 
 <div align="center">
 
@@ -73,7 +73,7 @@ comment markers around this block to show live pinned-repo cards.
 
 ---
 
-### `3:contact`
+### `contact`
 
 <a href="https://github.com/soumadip420"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=00FFFF" /></a>
 <a href="https://www.linkedin.com/in/your-id"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00FFFF" /></a>
